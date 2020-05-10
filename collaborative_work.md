@@ -56,6 +56,7 @@ Empezó en los años 60, de la forma más básica que existe, con navegadores de
 Como ya dije, este tipo de Web es de solo lectura, donde el usuario no puede interactuar con el contenido de la página, estando totalmente limitado a lo que el Webmaster sube a la página web.
 
 Web 1.0 es una frase que se refiere a un estado de la World Wide Web, y cualquier página web diseñada con un estilo anterior del fenómeno de la Web 2.0. Además, es la forma más fácil en el sentido del término Web 1.0 cuando es usada en relación a término Web 2.0, para comparar los dos y mostrar ejemplos de cada uno.
+Notas adicionales
 
 
 
