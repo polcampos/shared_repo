@@ -57,6 +57,8 @@ Como ya dije, este tipo de Web es de solo lectura, donde el usuario no puede int
 
 Web 1.0 es una frase que se refiere a un estado de la World Wide Web, y cualquier página web diseñada con un estilo anterior del fenómeno de la Web 2.0. Además, es la forma más fácil en el sentido del término Web 1.0 cuando es usada en relación a término Web 2.0, para comparar los dos y mostrar ejemplos de cada uno.
 
+
+
 CARACTERÍSTICAS:
 
 - Presencia informativa y accesible a través de la red.
