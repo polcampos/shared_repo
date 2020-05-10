@@ -49,6 +49,7 @@ Las oportunidades externas proporcionan a una organización un medio para mejora
 
 ## Web 1.0 by Participant 6
 
+<<<<<<< HEAD
 WEB 1.0
 
 Empezó en los años 60, de la forma más básica que existe, con navegadores de solo texto, como ELISA, bastante rápidos, después surgió el HTML que hizo las páginas web más agradables a la vista y los primeros navegadores visuales como IE, Nestcape, etc.
@@ -134,6 +135,8 @@ CARACTERÍSITCAS:
 
 
 
+=======
+>>>>>>> parent of 60372f0... Update collaborative_work.md
 ### Main features
 
 ### Example of opportunities
